@@ -25,3 +25,5 @@ TTCN_OVDXQ7/
 - Phân tích và thiết kế CSDL: [https://docs.google.com/document/d/1H79QPVIyj6uycBiG2Jm7gDNgWbGE5K0kAHavlqSZq0A/edit?usp=drive_link]
 
 - Figma (UI): [https://www.figma.com/design/wLObP0RpRTzmegqF8XP6FE/UI-ng%C6%B0%E1%BB%9Di-d%C3%B9ng?node-id=185-2&t=e1VqUsFblXLvFIad-1]
+
+- Báo cáo: https://docs.google.com/document/d/17PamG3u9rF7BoL5awSeiCALiiOMueeDR8LcdbBM7d9A/edit?usp=sharing
